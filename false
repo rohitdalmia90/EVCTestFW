@@ -1,0 +1,61 @@
+1605682021636	geckodriver	INFO	geckodriver 0.21.0
+1605682021645	geckodriver	INFO	Listening on 127.0.0.1:19134
+1605682022124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALISHA~1.BAW\\AppData\\Local\\Temp\\rust_mozprofile.1HP76G5lnr17"
+1605682022707	Marionette	TRACE	Marionette enabled
+1605682022748	Marionette	TRACE	Received observer notification toplevel-window-ready
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605682025134	Marionette	TRACE	Received observer notification marionette-startup-requested
+1605682025134	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1605682025140	Marionette	TRACE	All scripts recorded.
+1605682025140	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1605682025141	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1605682025141	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1605682025141	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1605682025141	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1605682025142	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1605682025142	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1605682025142	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1605682025142	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1605682025142	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1605682025142	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1605682025142	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1605682025143	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1605682025143	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1605682025143	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1605682025144	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1605682025144	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1605682025144	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1605682025144	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1605682025144	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1605682025145	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1605682025145	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1605682025145	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1605682025145	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1605682025145	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1605682025145	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1605682025146	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1605682025146	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1605682025146	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1605682025147	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1605682025150	Marionette	INFO	Listening on port 60505
+1605682025150	Marionette	DEBUG	Marionette is listening
+1605682025264	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:60515
+1605682025271	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1605682025271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605682025281	Marionette	TRACE	[21] Frame script loaded
+1605682025295	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"92def700-503b-49d3-8c03-92a7f05261fd","capabilities":{"browserName":"firefox","browserVersion":"83.0" ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1605682025321	Marionette	DEBUG	0 -> [0,2,"WebDriver:MaximizeWindow",{}]
+1605682025597	Marionette	DEBUG	0 <- [1,2,null,{"x":-8,"y":-8,"width":1936,"height":1056}]
+1605682025611	Marionette	DEBUG	0 -> [0,3,"WebDriver:Navigate",{"url":"file://D:\\unifyed-automation-framework-master\\LogsAndReports\\Reports_18_11_2020\\Reports_18_11_2020.html"}]
+1605682025618	Marionette	TRACE	Received message beforeunload for about:blank
+1605682025648	Marionette	TRACE	[21] Frame script unloaded
+1605682025651	Marionette	TRACE	Received message pagehide for about:blank
+1605682025750	Marionette	TRACE	[21] Frame script loaded
+1605682026742	Marionette	TRACE	Detected remoteness change. New browsing context: 21
+1605682026745	Marionette	TRACE	Received message beforeunload for about:blank
+1605682026748	Marionette	TRACE	Received message pagehide for about:blank
+1605682029237	Marionette	TRACE	Received message DOMContentLoaded for file:///D:/unifyed-automation-framework-master/LogsAndReports/Reports_18_11_2020/Reports_18_11_2020.html
+1605682029522	Marionette	TRACE	Received message pageshow for file:///D:/unifyed-automation-framework-master/LogsAndReports/Reports_18_11_2020/Reports_18_11_2020.html
+1605682029523	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
